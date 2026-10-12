@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INFO.md",
+                "file": "file:C:/Users/ART/Desktop/DemoProbnik/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INFO"
+              "title": "README"
             }
           }
         ]
@@ -191,14 +191,24 @@
   },
   "active": "603f76fc38ef054b",
   "lastOpenFiles": [
-    "file:C:/Users/students/Desktop/Demo/README.md",
     "INFO.md",
-    "Без названия",
-    "Tools/Python.md",
     "Tools/C Sharp.md",
-    "Obsidian.html",
+    "Website/site-lib/search-index.json",
+    "Website/site-lib/styles/obsidian.css",
+    "Website/site-lib/styles/main-styles.css",
+    "Website/site-lib/styles/global-variable-styles.css",
+    "Website/site-lib/scripts/webpage.js",
+    "Website/site-lib/scripts/graph-wasm.wasm",
+    "Website/site-lib/scripts/graph-wasm.js",
+    "Website/site-lib/scripts/graph-render-worker.js",
+    "Website/site-lib/media/favicon.png",
+    "Website/site-lib/media/6155340132a851f6089e.svg",
+    "Website/site-lib/media/2308ab1944a6bfa5c5b8.svg",
+    "Website/site-lib/html/file-tree-content.html",
+    "Website/site-lib/fonts/c504db5c06caaf7cdfba.woff2",
+    "Tools/Python.md",
+    "file:C:/Users/students/Desktop/Demo/README.md",
     "ИНСТРУМЕНТЫ И IDE.md",
-    "Tools",
     "Добро пожаловать.md"
   ]
 }
